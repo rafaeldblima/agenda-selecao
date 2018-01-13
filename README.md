@@ -23,6 +23,5 @@ Back-End: Java (Web Service)
   -> acesse: http://localhost:4200/
   
  # 3 - Banco de dados  
-  -> está sendo hosteado por mim, com a conexão setada no código
-  -> pode haver uma possível lentidão
   -> se necessário no anexo ao projeto importar 'sqljdbc42.jar' no projeto java
+  -> Configure sua conexão, pois não tenho mais esse host
